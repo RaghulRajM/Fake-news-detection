@@ -1,6 +1,4 @@
 # Fake-news-detection
-False information is created online for financial/political gain, negatively impacting society. This exercise categorizes text into FALSE, MISLEADING, TRUE, or UNPROVEN, after preprocessing for classification.
-Raghul Raj Manogeran - 1222800020
 Abstract- Large amounts of false information are created
 online for a variety of reasons, including financial and political
 benefits, due to its ease of spread online. The widespread
